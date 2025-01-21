@@ -1,0 +1,6 @@
+2025-01-03 11:02:02,072 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-03 11:03:29,762 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Encrypt:Examples:0.0.1-SNAPSHOT @ C:\Users\manoj.kondlay\Downloads\java folder\RestApiSpringboot\Examples\pom.xml.
+2025-01-03 11:03:30,775 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-03 11:03:30,776 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manoj.kondlay\Downloads\java folder\RestApiSpringboot\Examples\src\main\resources
+2025-01-03 11:03:30,780 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-03 11:03:30,780 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manoj.kondlay\Downloads\java folder\RestApiSpringboot\Examples\src\test\resources
